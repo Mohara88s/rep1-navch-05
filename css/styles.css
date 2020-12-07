@@ -537,6 +537,7 @@ h2 {
   overflow: hidden;
 }
 .info p {
+  overflow: auto;
   position: absolute;
   width: 100%;
   height: 100%;
