@@ -64,6 +64,10 @@ a {
   display: block;
   /* background-color: red; */
 }
+button {
+  text-decoration: none;
+  border: none;
+}
 img {
   display: block;
   max-width: 100%;
