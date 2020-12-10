@@ -173,6 +173,7 @@ h2 {
   color: var(--auxiliary-text-color);
   fill: currentColor;
   display: flex;
+  align-items: center;
 }
 .navigation a:hover,
 .navigation a:focus,
