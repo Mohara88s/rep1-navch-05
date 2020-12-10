@@ -216,6 +216,7 @@ h2 {
   display: flex;
   padding-top: 60px;
   padding-bottom: 60px;
+  align-items: baseline;
 }
 .footer .logo {
   margin-bottom: 20px;
