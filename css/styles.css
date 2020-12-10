@@ -171,7 +171,7 @@ h2 {
 }
 .header-contacts a {
   color: var(--auxiliary-text-color);
-  fill: var(--auxiliary-text-color);
+  fill: currentColor;
   display: flex;
 }
 .navigation a:hover,
@@ -179,7 +179,6 @@ h2 {
 .header-contacts a:hover,
 .header-contacts a:focus {
   color: var(--accent-color);
-  fill: var(--accent-color);
 }
 
 .selected-page {
